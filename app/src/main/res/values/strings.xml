@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidCA2</string>
+    <string-array name="temps_array">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string name="temperatureTextView">Temperature:</string>
+    <string name="refreshButton">Refresh</string>
+</resources>
